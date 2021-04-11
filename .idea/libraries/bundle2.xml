@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bundle2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OSGI_Deliverables/Framework/felix-framework-4.0.3/felix-cache/bundle1/version0.0/bundle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

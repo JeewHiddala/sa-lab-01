@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.felix.main.distribution-4.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OSGI_Deliverables/Framework/org.apache.felix.main.distribution-4.0.3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
